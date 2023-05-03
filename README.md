@@ -1,7 +1,7 @@
 # BeerPong
 This is a Robot that will make a beer pong shot wherever the the cup is 
 
-This is the rough outline of what we are going to do for the project
+This is the rough outline of what we are going to do for the project. It should be done sometime in the next 10 days or so.
 
 step 0.
 
